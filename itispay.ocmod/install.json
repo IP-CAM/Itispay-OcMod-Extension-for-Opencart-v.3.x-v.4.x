@@ -1,0 +1,8 @@
+{
+  "name": "ItisPay Payment Gateway",
+  "code": "itispay",
+  "license": "GPL",
+  "version": "4.0.0",
+  "author": "ItisPay",
+  "link": "https://itispay.com/"
+}
