@@ -1,0 +1,3 @@
+<?php
+
+define('ITISPAY_OPENCART_EXTENSION_VERSION', '3.0.1');
